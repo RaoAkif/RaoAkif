@@ -7,9 +7,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RaoAkif)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/RaoAkif)
 
-Welcome to my GitHub page. I am currently working at NoWhere.
+Welcome to my GitHub profile. I am currently working at NoWhere.
 
-#### 👨‍💻 My tech stack is ...
+#### 👨‍💻 My Tech Stack
 * HTML & CSS
 * Ruby
 * Ruby on Rails
@@ -25,9 +25,6 @@ Welcome to my GitHub page. I am currently working at NoWhere.
 * Building projects with React and Rails.
 * Building and contributing to blockchain projects.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=RaoAkif)
-
 <hr/>
-
 
  :star: By [RaoAkif](https://github.com/RaoAkif)
