@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I am currently working at NoWhere.
 * Postgresql
 * Soidity
 
-#### 🔭 I’m currently working on ...
+#### 🔭 Currently Working On
 * Contributing to open source projects.
 * Building projects with React and Rails.
 * Building and contributing to blockchain projects.
