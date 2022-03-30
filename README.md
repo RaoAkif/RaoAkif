@@ -8,7 +8,6 @@
 </p>
 
 <br>
-<br>
 
 <h3 align="center"> 👨‍💻 My Technology Stack </h3>
 <br>
