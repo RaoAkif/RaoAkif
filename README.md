@@ -25,7 +25,9 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>  </a> 
 </p>
 </br>
-</br>
+
+---
+
 </br>
 
 
