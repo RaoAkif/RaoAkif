@@ -26,9 +26,8 @@
 </p>
 </br>
 
----
-<details>
-  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
+
+<h3 align="center"> <img align="center" src="./assets/mv-logo-purple.png" width="25"/> Microverse Certificates </h3>
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/d0f412b8-532d-4e67-90c5-42308999d77d" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
@@ -39,5 +38,5 @@
     <td align="center"><a href="https://www.credential.net/f5bb1a1c-08c9-4111-91f3-a209ef79925c" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a></td>
   </tr>
 </table>
-</details>
+
 ---
