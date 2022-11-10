@@ -25,3 +25,19 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>  </a> 
 </p>
 </br>
+
+---
+<details>
+  <summary align='center'><a href="https://www.microverse.org/"><img align="center" src="./assets/mv-logo-purple.png" width="25"/></a> Microverse Certificates</summary>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://www.credential.net/d0f412b8-532d-4e67-90c5-42308999d77d" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/f3865f3a-45e3-4c17-a996-693a2d2ae6a2" target="blank"><img src="./assets/javascript-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/aa046d01-d117-4a00-b271-05200b48178c" target="blank"><img src="./assets/react-redux-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/6adaceeb-e3d3-41ab-9034-bb6a566585f9" target="blank"><img src="./assets/ruby-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/1a76e83f-0da1-438b-93c3-0e8de57334a1" target="blank"><img src="./assets/ruby-on-rails-badge.png" width="80"></a></td>
+    <td align="center"><a href="https://www.credential.net/f5bb1a1c-08c9-4111-91f3-a209ef79925c" target="blank"><img src="./assets/full-stack-badge.png" width="80"></a></td>
+  </tr>
+</table>
+</details>
+---
