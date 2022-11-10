@@ -44,4 +44,14 @@
 </table>
 
 </br>
-</br>
+
+<h3 align="center"> <img align="center" src="https://user-images.githubusercontent.com/61361037/200971890-06cdf0eb-655e-46f5-bf17-ccc69bf794e0.png" width="25" />&nbsp; Current Projects </h3>
+<div align="center">
+  <a href="https://github.com/mavericks-db/portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaoAkif&repo=Medium" />
+  </a>
+  <a href="https://github.com/mavericks-db/capstone01">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RaoAkif&repo=BizFind" />
+  </a>
+</div>
+
