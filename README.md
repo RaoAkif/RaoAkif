@@ -25,9 +25,11 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>  </a> 
 </p>
 </br>
+</br>
+</br>
 
 
-<h3 align="center"> <img align="center" src="./assets/mv-logo-purple.png" width="25"/> Microverse Certificates </h3>
+<h3 align="center"> <img align="center" src="./assets/mv-logo-purple.png" width="25"/> Microverse Certifications </h3>
 <table align="center">
   <tr>
     <td align="center"><a href="https://www.credential.net/d0f412b8-532d-4e67-90c5-42308999d77d" target="blank"><img src="./assets/html-css-badge.png" width="80"></a></td>
@@ -39,4 +41,5 @@
   </tr>
 </table>
 
----
+</br>
+</br>
