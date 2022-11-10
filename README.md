@@ -10,7 +10,7 @@
 </p>
 <p align="center"> <a href="#"><img alt="For Hire" src="https://img.shields.io/badge/-Searching for new challenges-1ca0f1?style=for-the-badge&color=c1c1c1"></a> </p>
 
-<br>
+<br><br>
 
 <h3 align="center"> 👨‍💻 My Technology Stack </h3>
 <br>
@@ -25,7 +25,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>  </a> 
 </p>
 
-</br>
+</br><br>
 
 <h3 align="center"> <img align="center" src="https://user-images.githubusercontent.com/61361037/200971890-06cdf0eb-655e-46f5-bf17-ccc69bf794e0.png" width="25" />&nbsp; Current Projects </h3>
 <div align="center">
@@ -37,7 +37,7 @@
   </a>
 </div>
 
-</br>
+</br><br>
 
 
 <h3 align="center"> <img align="center" src="./assets/mv-logo-purple.png" width="25"/> Microverse Certifications </h3>
